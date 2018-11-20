@@ -10,6 +10,7 @@ This simple class can be used for reading temperature and humidity values from D
 For example:
 
 ```python
+#!/usr/bin/env python3
 import RPi.GPIO as GPIO
 import dht11
 
